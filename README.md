@@ -18,8 +18,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/>
+
 
   
 > 🎓**Estudante de Análise e Desenvolvimento de Sistemas** | Uninassau - Graças/Recife-PE <br>
