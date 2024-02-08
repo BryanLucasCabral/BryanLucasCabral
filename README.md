@@ -1,14 +1,11 @@
 ## OLÁ PESSOAL, SEJAM BEM VINDOS AO MEU GIT
-<img align="right" alt="GIF"  width="300px" src="https://raw.githubusercontent.com/Kushal997-das/Kushal997-das/master/Profile%20generator/giphy.webp" />
   
-> 🎓**Estudante de Análise e Desenvolvimento de Sistemas** | Uninassau - Graças/Recife-PE <br>
+> 🎓**Estudante de Análise e Desenvolvimento de Sistemas** <br>
 
 <details>
     
   <summary> <b>📚Studying</b></summary> <br>
   <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanLucasCabral&hide=html&layout=compact&theme=dracula" align="right"/><br>
- - 📗 C# <br>
- - 📕 Java 
 </details> <br>
   
 
