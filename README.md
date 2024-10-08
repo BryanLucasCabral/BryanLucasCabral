@@ -1,6 +1,7 @@
 ## OLÁ PESSOAL, SEJAM BEM VINDOS AO MEU GIT
   
-> 🎓**Estudante de Análise e Desenvolvimento de Sistemas** <br>
+> 🎓**Formado em Análise e Desenvolvimento de Sistemas** <br>
+> 📘**Atualmente estudando Engenharia de Software** <br>
 
 <details>
     
@@ -20,22 +21,27 @@
 
 ## 🚀 Skills    
 
+<p align="left">
+  <img align="center" alt="Vini-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Vini-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
+  <img align="center" alt="Vini-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+</p>
   
 ## ⚙ Tools
 
+<p align="left">
   <img align="center" alt="vs-code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
- 
+  <img align="center" alt="postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
+  <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="tomcat" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg">
+  <img align="center" alt="intellij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
+</p>
 
 ## 📢 Social Networks
-
-[gmail]: https//mailto:Bryan.brasil.bl@gmail.com
-[linkedin]: https://www.linkedin.com/in/bryan-lucas-b37757209/
-[instagram]: https://www.instagram.com/bryan_llucass/
 
 <p align="left">
    <a href="https://instagram.com/bryan_llucass/" alt="Instagram">
